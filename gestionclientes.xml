@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<clientes>
+  <cliente>
+    <dni>45944022G</dni>
+    <nombre>jo</nombre>
+    <fecha_nacimiento>1996-11-12</fecha_nacimiento>
+    <edad>29</edad>
+  </cliente>
+</clientes>

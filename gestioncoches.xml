@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<concesionario>
+  <coche>
+    <matricula>9772BRR</matricula>
+    <marca>Opel</marca>
+    <precio>26.32</precio>
+  </coche>
+  <coche>
+    <matricula>1234ABC</matricula>
+    <marca>Ferrari</marca>
+    <precio>250</precio>
+  </coche>
+  <coche>
+    <matricula>4594ABC</matricula>
+    <marca>poro</marca>
+    <precio>63.0</precio>
+  </coche>
+  <coche>
+    <matricula>9876ABC</matricula>
+    <marca>Ford</marca>
+    <precio>24.0</precio>
+  </coche>
+  <coche>
+    <matricula>2547OPL</matricula>
+    <marca>Bugatti</marca>
+    <precio>325.0</precio>
+  </coche>
+</concesionario>
