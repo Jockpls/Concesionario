@@ -28,6 +28,8 @@ Para la instalación del programa debemos seguir los siguientes pasos:
 
 ## ITEMS
 - JSON:
+<div align: "center">
+
 ### GESTIÓN DE ALQUILER
 | **DATO** | **DESCRIPCIÓN** |
 | :----------: | :----------: |
@@ -37,20 +39,28 @@ Para la instalación del programa debemos seguir los siguientes pasos:
 | **FECHA_INICIO** | Fecha de inicio del alquiler |
 | **FECHA_FIN** | Fecha de finalización del alquiler |
 | **PRECIO_FINAL** | Precio final al cliente |
-
+</div>
 
 - XML:
+
+<div align: "center">
+
 ### GESTIÓN DE CLIENTES
 | **DATO** | **DESCRIPCIÓN** |
+| :----------: | :----------: |
 | **DNI** | Documento de identidad, se usa cómo identificador del cliente |
 | **NOMBRE_COMPLETO** | Nombre y Apellidos del cliente |
 | **EDAD** | Edad del cliente |
+</div>
+<div align: "center">
 
 ### GESTIÓN DE COCHES
 |**DATO** | **DESCRIPCIÓN** |
+| :----------: | :----------: |
 | **MATRÍCULA** | Identificador del vehículo |
 | **MARCA** | Marca del coche |
 | **PRECIO_POR_DÍA** | Precio de alquiler diario |
+</div>
 
 El uso de estos ficheros nos codifica y ordena la gestión de la base de datos. 
 Para los datos de los **clientes** utilizamos *XML* para poder definir y manejar los datos de los clientes con mayor facilidad.
