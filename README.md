@@ -30,6 +30,7 @@ Para la instalación del programa debemos seguir los siguientes pasos:
 - JSON:
 ### GESTIÓN DE ALQUILER
 | **DATO** | **DESCRIPCIÓN** |
+| :----------: | :----------: |
 | **DNI** | Identificador del coche  |
 | **MATRÍCULA** | Identificador del cliente |
 | **EXTRAS** | Extras y valor de estos |
