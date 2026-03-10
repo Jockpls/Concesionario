@@ -63,6 +63,6 @@ Para la instalación del programa debemos seguir los siguientes pasos:
 </div>
 
 El uso de estos ficheros nos codifica y ordena la gestión de la base de datos. 
-Para los datos de los **clientes** utilizamos *XML* para poder definir y manejar los datos de los clientes con mayor facilidad.
+Para los datos de los **clientes** utilizamos *XML* para poder definir y manejar los datos de los clientes con mayor facilidad.</br>
 Para los datos de los **alquileres** utilizamos *JSON* para definirlos cómo diccionarios y poder acceder a ellos de una manera simple y rápida.
 
