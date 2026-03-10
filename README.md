@@ -10,7 +10,7 @@ El propósito principal del programa es organizar y gestionar los alquileres **d
 
 - PyCharm 3.13 para la programación en Python
 
--VSCode para la gestión de JSON y XML con las extensiones: 
+- VSCode para la gestión de JSON y XML con las extensiones: 
   1. XML,
   2. XML Tools
   3. JSON Tools
