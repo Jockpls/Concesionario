@@ -69,7 +69,8 @@ Para los datos de los **alquileres** utilizamos *JSON* para definirlos cómo dic
 ---
 
 <h1>Base de Datos</h1>
-Las relaciones de las clases en la base de datos se organizan cómo podemos observar en el diagrama.
+Las relaciones de las clases en la base de datos se organizan cómo podemos observar en el diagrama. Partiendo del alquiler las otras dos clases.
+No es una relación de herencia dentro del código, pero sí que se relacionan directamente, recogiendo todos los datos del cliente y del vehículo la clase Renting.
 
 ```mermaid
 classDiagram
@@ -105,6 +106,7 @@ classDiagram
 
     class ObjectError {
         <<exception>>
+        Utilizado para poder generar mensajes de error personalizados
     }
 
     %% Relaciones
