@@ -8,21 +8,25 @@ El propósito principal del programa es organizar y gestionar los alquileres **d
 
 ## REQUISITOS
 
-- PyCharm 3.13 para la programación en Python
+- [PyCharm 3.13](https://github.com/Jockpls/Concesionario/wiki/Uso-de-Python-e-instalación-de-Pycharm.) para la programación en Python.
 
-- VSCode para la gestión de JSON y XML con las extensiones: 
+- [VSCode](https://github.com/Jockpls/Concesionario/wiki/Instalación-VS-Code) para la gestión de JSON y XML con las extensiones: 
   1. XML,
   2. XML Tools
   3. JSON Tools
 
+En los enlaces se encuentra la guía de instalación de dichos IDEs.
+
 ---
 
-## INSTALACIÓN
+## INSTALACIÓN DEL PROGRAMA
 Para la instalación del programa debemos seguir los siguientes pasos:
 
 1. Clonar repositorio desde GitHub en la carpeta seleccionada.
    > Es importante que en esa carpeta se encuentren únicamente los elementos que componen el repositorio, en caso contrario podría originar errores en la ejecución o corrupción de datos.
 2. Ejecutar concesionario.py
+
+Encontraremos la guía del programa en su página de la [wiki](https://github.com/Jockpls/Concesionario/wiki/Descripción-del-programa).
 
 ---
 
